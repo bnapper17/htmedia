@@ -17,7 +17,7 @@ function Nav() {
             <ul className="link_list_small">
                 <li><Link to='/Radio' className='link'>Radio</Link></li>
                 <li><Link to='/Service' className='link'>Services</Link></li>
-                <li><a href="https://htsl.netlify.app" className='link'>Home Page</a></li>
+                <li><a href="https://htsl.netlify.app" className='link'>Home</a></li>
                 {/* <li>Letters</li> */}
             </ul>
         </nav>
