@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+.trackList {
+    min-height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: rgb(48, 84, 117);
+    padding-bottom: 4.5rem;
+}
+
+.track {
+    width: 15%;
+    min-width: 20ch;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-left: solid 1px white;
+    border-right: solid 1px white;
+    text-align: center;
+    margin-right: -1px;
+    cursor: pointer;
+}
+
+.info {
+    pointer-events: none;
+}
