@@ -61,7 +61,7 @@ function Controls() {
                 <p className="time">{!isNaN(currentTime) ? formatTime(currentTime) : '0:00'}</p>
                 <input type="range" className='progress_bar' defaultValue='0'
                      max={progressLength} ref={progressBar} onChange={changeTime}/>
-                <p className='time duration'>{!isNaN(duration) ? formatTime(duration) : '0:00'}</p>
+                <p className='time duration'>{!isNaN(duration) ? formatTime(duration - currentTime) : '0:00'}</p>
             </div>
             <div className="title_bar">
                 <p className='track_info'>{track !== null ? `${track.name} ${track.date}` : 'Heavenly Treasures Archive'}</p>
