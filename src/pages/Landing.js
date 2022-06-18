@@ -7,7 +7,7 @@ function Landing() {
 
   return (
     <div className="container">
-        <video src='https://heavenly-treasures.s3.us-east-2.amazonaws.com/carboard-testimony-hd.mp4' autoPlay loop muted playsInline disablePictureInPicture/>
+        <video src='https://heavenly-treasures.s3.us-east-2.amazonaws.com/carboard-testimony-hd.mp4' autoPlay loop muted playsInline />
     </div>
   );
 }
