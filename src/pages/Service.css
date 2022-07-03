@@ -32,5 +32,6 @@
 }
 
 .info{
-    pointer-events: none;;
+    pointer-events: none;
+    width: 80%;
 }
