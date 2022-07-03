@@ -48,7 +48,18 @@ const library = [
     {name: 'Have God\'s Nature', date: 'August 4 1985', type: 'service', source: 'https://heavenly-treasures.s3.us-east-2.amazonaws.com/66_Have++God\'s+Nature_Bro+Carlie\'s+080485.mp3'},
     {name: 'Radio Broadcast', date: 'August 29 1982', type: 'radio', source: 'https://heavenly-treasures.s3.us-east-2.amazonaws.com/67_RB+082982.mp3'},
     {name: 'Radio Broadcast', date: 'November 7 1982', type: 'radio', source: 'https://heavenly-treasures.s3.us-east-2.amazonaws.com/68_RB+110782.mp3'},
-    {name: 'Radio Broadcast', date: 'May 24 1981', type: 'radio', source: 'https://heavenly-treasures.s3.us-east-2.amazonaws.com/69_RB+052481.mp3'}
-]
+    {name: 'Radio Broadcast', date: 'May 24 1981', type: 'radio', source: 'https://heavenly-treasures.s3.us-east-2.amazonaws.com/69_RB+052481.mp3'},
+    {name: 'Radio Broadcast', date: 'August 30 1981', type: 'radio', source: 'https://heavenly-treasures.s3.us-east-2.amazonaws.com/70_RB++083081.mp3'},
+    {name: 'Lamon Napper Sr.', date: 'August 1981', type: 'service', source: 'https://heavenly-treasures.s3.us-east-2.amazonaws.com/71_Lamon+Napper_Aug+1989.mp3'},
+    {name: 'Brandenburg' , date: 'May 25 1980' , type: 'service', source: 'https://heavenly-treasures.s3.us-east-2.amazonaws.com/72_Brandenburg+052580.mp3'},
+    {name: 'Carlie Jenkins', date: 'July 31 1985', type: 'service', source: 'https://heavenly-treasures.s3.us-east-2.amazonaws.com/73_Bro+Carlie\'s+073185.mp3'},
+    {name: 'Carlie Jankin\'s Tent', date: 'July 31 1980', type: 'service', source: 'https://heavenly-treasures.s3.us-east-2.amazonaws.com/74_Bro+Jenkins+Tent+073180.mp3'},
+    {name: 'Brother Rick\'s', date: 'February 5 1987', type: 'service', source: 'https://heavenly-treasures.s3.us-east-2.amazonaws.com/75_Bro+Lamon+Napper+at+Bro+Rick\'s+020587.mp3'},
+    {name: 'Brother Tuttle\'s', date: 'May 16 1987', type: 'service', source: 'https://heavenly-treasures.s3.us-east-2.amazonaws.com/76_Bro+Napper+%40+Bro+Tuttles+5-16-87.mp3'},
+    {name: 'Campground', date: 'July 13 1986', type: 'service', source: 'https://heavenly-treasures.s3.us-east-2.amazonaws.com/77_Bro+Napper+Campmeeting+7-13-86.mp3'},
+    {name: 'Campground', date: 'July 5 1999', type: 'service', source:'https://heavenly-treasures.s3.us-east-2.amazonaws.com/78_Campground++070599.mp3'},
+    {name: 'Campground', date: 'July 14 2001', type: 'service', source: 'https://heavenly-treasures.s3.us-east-2.amazonaws.com/79_Campground+071401.mp3'},
+    {name: 'Campground', date: 'July 10 1983', type: 'service', source: 'https://heavenly-treasures.s3.us-east-2.amazonaws.com/80_CampMeeting+071083.mp3'}
 
+]
 export {library}
